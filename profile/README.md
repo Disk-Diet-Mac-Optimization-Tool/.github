@@ -28,7 +28,7 @@ Optimized for **macOS Sonoma, Ventura, Monterey, and older versions**, Disk Diet
 
 Whether you’re a creative professional working with large files or a student managing limited storage, Disk Diet helps keep your Mac fast, organized, and clutter-free.
 
-![Disk Diet Interface](https://static.macupdate.com/screenshots/347968/m/disk-diet-screenshot.png)
+![Disk Diet Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIRHAjKmq_84nLkvjUpgPtOU5dihd04hWSA&s)
 
 ---
 
